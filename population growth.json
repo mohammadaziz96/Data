@@ -1,0 +1,1249 @@
+{
+    "countries": [
+        {
+            "name": "India",
+            "population": 1436391835,
+            "growthRate": 0.44668556
+        },
+        {
+            "name": "China",
+            "population": 1411805000,
+            "growthRate": -0.2178029
+        },
+        {
+            "name": "OECD members",
+            "population": 1385986139,
+            "growthRate": 0.66743317
+        },
+        {
+            "name": "High income",
+            "population": 1250557330,
+            "growthRate": 0.82086512
+        },
+        {
+            "name": "IDA only",
+            "population": 1287022932,
+            "growthRate": 2.12579231
+        },
+        {
+            "name": "Sub-Saharan Africa",
+            "population": 1271243980,
+            "growthRate": 2.43913135
+        },
+        {
+            "name": "Sub-Saharan Africa (IDA & IBRD countries)",
+            "population": 1271243980,
+            "growthRate": 2.43913135
+        },
+        {
+            "name": "Sub-Saharan Africa (excluding high income)",
+            "population": 1271082862,
+            "growthRate": 2.43422925
+        },
+        {
+            "name": "Least developed countries: UN classification",
+            "population": 1175608837,
+            "growthRate": 2.1782854
+        },
+        {
+            "name": "Post-demographic dividend",
+            "population": 1107345462,
+            "growthRate": -0.6743294
+        },
+        {
+            "name": "Pre-demographic dividend",
+            "population": 1091951290,
+            "growthRate": 2.5504207
+        },
+        {
+            "name": "Fragile and conflict affected situations",
+            "population": 1053728804,
+            "growthRate": 0.67149751
+        },
+        {
+            "name": "Europe & Central Asia",
+            "population": 913998650,
+            "growthRate": -1.29821848
+        },
+        {
+            "name": "Heavily indebted poor countries (HIPC)",
+            "population": 930551506,
+            "growthRate": 2.54799512
+        },
+        {
+            "name": "Africa Eastern and Southern",
+            "population": 756623184,
+            "growthRate": 2.41632618
+        },
+        {
+            "name": "Low income",
+            "population": 740683765,
+            "growthRate": 2.63381734
+        },
+        {
+            "name": "Latin America & Caribbean",
+            "population": 667970432,
+            "growthRate": 0.616469
+        },
+        {
+            "name": "Latin America & the Caribbean (IDA & IBRD countries)",
+            "population": 652430884,
+            "growthRate": 0.65106306
+        },
+        {
+            "name": "IDA blend",
+            "population": 633175842,
+            "growthRate": 2.16397368
+        },
+        {
+            "name": "Latin America & Caribbean (excluding high income)",
+            "population": 604783997,
+            "growthRate": 0.54470768
+        },
+        {
+            "name": "Middle East & North Africa",
+            "population": 507488881,
+            "growthRate": 1.79715061
+        },
+        {
+            "name": "Africa Western and Central",
+            "population": 514620796,
+            "growthRate": 2.47264352
+        },
+        {
+            "name": "Arab World",
+            "population": 481013188,
+            "growthRate": 2.11834524
+        },
+        {
+            "name": "Europe & Central Asia (IDA & IBRD countries)",
+            "population": 447785113,
+            "growthRate": -3.66925406
+        },
+        {
+            "name": "European Union",
+            "population": 447755306,
+            "growthRate": 0.35878733
+        },
+        {
+            "name": "Middle East & North Africa (excluding high income)",
+            "population": 436890741,
+            "growthRate": 1.47841166
+        },
+        {
+            "name": "Middle East & North Africa (IDA & IBRD countries)",
+            "population": 431605403,
+            "growthRate": 1.46731898
+        },
+        {
+            "name": "Europe & Central Asia (excluding high income)",
+            "population": 390108405,
+            "growthRate": -3.6922821
+        },
+        {
+            "name": "North America",
+            "population": 376199341,
+            "growthRate": 1.18709661
+        },
+        {
+            "name": "Euro area",
+            "population": 351108575,
+            "growthRate": 1.21111844
+        },
+        {
+            "name": "United States",
+            "population": 335799563,
+            "growthRate": 0.81919949
+        },
+        {
+            "name": "Indonesia",
+            "population": 278997635,
+            "growthRate": 0.52022998
+        },
+        {
+            "name": "Pakistan",
+            "population": 244670352,
+            "growthRate": 2.01161264
+        },
+        {
+            "name": "Nigeria",
+            "population": 228820990,
+            "growthRate": 2.32729469
+        },
+        {
+            "name": "Brazil",
+            "population": 217288048,
+            "growthRate": 0.32156975
+        },
+        {
+            "name": "Bangladesh",
+            "population": 174846614,
+            "growthRate": 0.92587326
+        },
+        {
+            "name": "Russian Federation",
+            "population": 144449835,
+            "growthRate": 0.14190358
+        },
+        {
+            "name": "Mexico",
+            "population": 129102099,
+            "growthRate": 0.76698174
+        },
+        {
+            "name": "Japan",
+            "population": 124011781,
+            "growthRate": -0.4116509
+        },
+        {
+            "name": "Ethiopia",
+            "population": 129573720,
+            "growthRate": 2.41762904
+        },
+        {
+            "name": "Philippines",
+            "population": 118916371,
+            "growthRate": 1.40083285
+        },
+        {
+            "name": "Egypt, Arab Rep.",
+            "population": 114445953,
+            "growthRate": 1.39045413
+        },
+        {
+            "name": "Central Europe and the Baltics",
+            "population": 97498311,
+            "growthRate": -2.3591435
+        },
+        {
+            "name": "Congo, Dem. Rep.",
+            "population": 105242400,
+            "growthRate": 3.14844898
+        },
+        {
+            "name": "Viet Nam",
+            "population": 99624510,
+            "growthRate": 0.51601882
+        },
+        {
+            "name": "Iran, Islamic Rep.",
+            "population": 89804846,
+            "growthRate": 0.6865919
+        },
+        {
+            "name": "Turkiye",
+            "population": 86645103,
+            "growthRate": 1.13286892
+        },
+        {
+            "name": "Germany",
+            "population": 85001799,
+            "growthRate": 2.07797226
+        },
+        {
+            "name": "Thailand",
+            "population": 71888884,
+            "growthRate": 0.05096345
+        },
+        {
+            "name": "France",
+            "population": 68385325,
+            "growthRate": 0.34402851
+        },
+        {
+            "name": "United Kingdom",
+            "population": 66861601,
+            "growthRate": -0.0819372
+        },
+        {
+            "name": "Tanzania",
+            "population": 69316576,
+            "growthRate": 2.86114589
+        },
+        {
+            "name": "South Africa",
+            "population": 60897145,
+            "growthRate": 0.52533388
+        },
+        {
+            "name": "Italy",
+            "population": 58554929,
+            "growthRate": 0.0517354
+        },
+        {
+            "name": "Myanmar",
+            "population": 54941750,
+            "growthRate": 0.71979589
+        },
+        {
+            "name": "Kenya",
+            "population": 56071233,
+            "growthRate": 1.84300837
+        },
+        {
+            "name": "Colombia",
+            "population": 52588948,
+            "growthRate": -0.21319713
+        },
+        {
+            "name": "Korea, Rep.",
+            "population": 51394599,
+            "growthRate": -0.3248784
+        },
+        {
+            "name": "Spain",
+            "population": 48503432,
+            "growthRate": 2.07350726
+        },
+        {
+            "name": "Uganda",
+            "population": 50041199,
+            "growthRate": 2.57302712
+        },
+        {
+            "name": "Sudan",
+            "population": 49308208,
+            "growthRate": 2.4897509
+        },
+        {
+            "name": "Argentina",
+            "population": 47086996,
+            "growthRate": 0.88252449
+        },
+        {
+            "name": "Algeria",
+            "population": 46353737,
+            "growthRate": 1.56961135
+        },
+        {
+            "name": "Iraq",
+            "population": 46421182,
+            "growthRate": 2.02297237
+        },
+        {
+            "name": "Small states",
+            "population": 44355915,
+            "growthRate": 1.77021198
+        },
+        {
+            "name": "Afghanistan",
+            "population": 43187389,
+            "growthRate": 1.90077966
+        },
+        {
+            "name": "Canada",
+            "population": 40336710,
+            "growthRate": 4.31926742
+        },
+        {
+            "name": "Ukraine",
+            "population": 26354198,
+            "growthRate": -41.3651672
+        },
+        {
+            "name": "Morocco",
+            "population": 38220745,
+            "growthRate": 0.96720732
+        },
+        {
+            "name": "Poland",
+            "population": 34970999,
+            "growthRate": -6.6427261
+        },
+        {
+            "name": "Saudi Arabia",
+            "population": 37325668,
+            "growthRate": 4.06098108
+        },
+        {
+            "name": "Uzbekistan",
+            "population": 37114100,
+            "growthRate": 2.28152259
+        },
+        {
+            "name": "Angola",
+            "population": 37759413,
+            "growthRate": 2.95819829
+        },
+        {
+            "name": "Peru",
+            "population": 34717822,
+            "growthRate": 0.50701565
+        },
+        {
+            "name": "Malaysia",
+            "population": 34666915,
+            "growthRate": 0.99838324
+        },
+        {
+            "name": "Yemen, Rep.",
+            "population": 35126560,
+            "growthRate": 2.15830586
+        },
+        {
+            "name": "Ghana",
+            "population": 34761548,
+            "growthRate": 1.80145908
+        },
+        {
+            "name": "Other small states",
+            "population": 34090524,
+            "growthRate": 2.20746639
+        },
+        {
+            "name": "Mozambique",
+            "population": 34754410,
+            "growthRate": 2.54835448
+        },
+        {
+            "name": "Nepal",
+            "population": 31572762,
+            "growthRate": 0.45329238
+        },
+        {
+            "name": "Madagascar",
+            "population": 31003836,
+            "growthRate": 2.30234671
+        },
+        {
+            "name": "Venezuela, RB",
+            "population": 28505354,
+            "growthRate": 3.13169858
+        },
+        {
+            "name": "Cote d'Ivoire",
+            "population": 29525128,
+            "growthRate": 2.44750358
+        },
+        {
+            "name": "Cameroon",
+            "population": 29346352,
+            "growthRate": 2.52266895
+        },
+        {
+            "name": "Niger",
+            "population": 28118487,
+            "growthRate": 3.7241159
+        },
+        {
+            "name": "Korea, Dem. People's Rep.",
+            "population": 26264430,
+            "growthRate": 0.31829826
+        },
+        {
+            "name": "Australia",
+            "population": 26645796,
+            "growthRate": 3.43412624
+        },
+        {
+            "name": "Burkina Faso",
+            "population": 23819920,
+            "growthRate": 2.37921333
+        },
+        {
+            "name": "Mali",
+            "population": 23970804,
+            "growthRate": 2.96969901
+        },
+        {
+            "name": "Sri Lanka",
+            "population": 22231000,
+            "growthRate": -1.812582
+        },
+        {
+            "name": "Syrian Arab Republic",
+            "population": 23727013,
+            "growthRate": 5.81754276
+        },
+        {
+            "name": "Malawi",
+            "population": 21436467,
+            "growthRate": 2.45457927
+        },
+        {
+            "name": "Zambia",
+            "population": 21106775,
+            "growthRate": 2.59248506
+        },
+        {
+            "name": "Kazakhstan",
+            "population": 20863940,
+            "growthRate": 7.04867742
+        },
+        {
+            "name": "Chile",
+            "population": 19824831,
+            "growthRate": -0.29214741
+        },
+        {
+            "name": "Romania",
+            "population": 18896909,
+            "growthRate": 0.3123203
+        },
+        {
+            "name": "Ecuador",
+            "population": 18407526,
+            "growthRate": 1.04267249
+        },
+        {
+            "name": "Chad",
+            "population": 18810465,
+            "growthRate": 3.01729155
+        },
+        {
+            "name": "Netherlands",
+            "population": 18036858,
+            "growthRate": 1.81285574
+        },
+        {
+            "name": "Somalia",
+            "population": 18661371,
+            "growthRate": 2.91567987
+        },
+        {
+            "name": "Guatemala",
+            "population": 17854166,
+            "growthRate": 1.35897185
+        },
+        {
+            "name": "Senegal",
+            "population": 18195907,
+            "growthRate": 2.42574937
+        },
+        {
+            "name": "Cambodia",
+            "population": 17125480,
+            "growthRate": 0.88623044
+        },
+        {
+            "name": "Zimbabwe",
+            "population": 16974563,
+            "growthRate": 1.98067917
+        },
+        {
+            "name": "Guinea",
+            "population": 14514211,
+            "growthRate": 2.28410795
+        },
+        {
+            "name": "Rwanda",
+            "population": 14406318,
+            "growthRate": 2.19130662
+        },
+        {
+            "name": "Benin",
+            "population": 14064802,
+            "growthRate": 2.58671291
+        },
+        {
+            "name": "Burundi",
+            "population": 13566302,
+            "growthRate": 2.6355256
+        },
+        {
+            "name": "Tunisia",
+            "population": 12542459,
+            "growthRate": 0.6129877
+        },
+        {
+            "name": "Bolivia",
+            "population": 12513386,
+            "growthRate": 1.18385099
+        },
+        {
+            "name": "Belgium",
+            "population": 11885052,
+            "growthRate": 1.74519329
+        },
+        {
+            "name": "Haiti",
+            "population": 11859850,
+            "growthRate": 1.10542788
+        },
+        {
+            "name": "Jordan",
+            "population": 11561051,
+            "growthRate": -0.29824401
+        },
+        {
+            "name": "Dominican Republic",
+            "population": 11450717,
+            "growthRate": 0.84108156
+        },
+        {
+            "name": "Cuba",
+            "population": 11123829,
+            "growthRate": -0.393785
+        },
+        {
+            "name": "South Sudan",
+            "population": 11242948,
+            "growthRate": 1.90668765
+        },
+        {
+            "name": "Czechia",
+            "population": 11004810,
+            "growthRate": 8.33666051
+        },
+        {
+            "name": "Sweden",
+            "population": 10629201,
+            "growthRate": 0.84056555
+        },
+        {
+            "name": "Honduras",
+            "population": 10741890,
+            "growthRate": 1.40607634
+        },
+        {
+            "name": "Greece",
+            "population": 10142343,
+            "growthRate": -1.6325788
+        },
+        {
+            "name": "Portugal",
+            "population": 10505450,
+            "growthRate": 0.12914648
+        },
+        {
+            "name": "Papua New Guinea",
+            "population": 10528983,
+            "growthRate": 1.71196358
+        },
+        {
+            "name": "Azerbaijan",
+            "population": 10149768,
+            "growthRate": -0.76387187
+        },
+        {
+            "name": "Tajikistan",
+            "population": 10358233,
+            "growthRate": 1.8847777
+        },
+        {
+            "name": "Hungary",
+            "population": 9509362,
+            "growthRate": -1.2448425
+        },
+        {
+            "name": "Israel",
+            "population": 9929700,
+            "growthRate": 2.53529551
+        },
+        {
+            "name": "United Arab Emirates",
+            "population": 9593097,
+            "growthRate": 0.75459987
+        },
+        {
+            "name": "Belarus",
+            "population": 9079043,
+            "growthRate": -0.7562198
+        },
+        {
+            "name": "Austria",
+            "population": 9213959,
+            "growthRate": 1.99752004
+        },
+        {
+            "name": "Togo",
+            "population": 9256439,
+            "growthRate": 2.25805322
+        },
+        {
+            "name": "Switzerland",
+            "population": 8918188,
+            "growthRate": 0.91338514
+        },
+        {
+            "name": "Sierra Leone",
+            "population": 8975872,
+            "growthRate": 2.03873898
+        },
+        {
+            "name": "Lao PDR",
+            "population": 7738311,
+            "growthRate": 1.32305892
+        },
+        {
+            "name": "Caribbean small states",
+            "population": 7552680,
+            "growthRate": -0.05058819
+        },
+        {
+            "name": "Hong Kong SAR, China",
+            "population": 7212100,
+            "growthRate": -0.9001901
+        },
+        {
+            "name": "Kyrgyz Republic",
+            "population": 7377900,
+            "growthRate": 2.99771848
+        },
+        {
+            "name": "Nicaragua",
+            "population": 7144096,
+            "growthRate": 1.47243054
+        },
+        {
+            "name": "Libya",
+            "population": 6966469,
+            "growthRate": 0.98316954
+        },
+        {
+            "name": "Paraguay",
+            "population": 6934634,
+            "growthRate": 0.86850294
+        },
+        {
+            "name": "Serbia",
+            "population": 6324695,
+            "growthRate": -5.6637964
+        },
+        {
+            "name": "Bulgaria",
+            "population": 5639805,
+            "growthRate": -16.932066
+        },
+        {
+            "name": "Turkmenistan",
+            "population": 6608600,
+            "growthRate": 1.27293672
+        },
+        {
+            "name": "El Salvador",
+            "population": 6380842,
+            "growthRate": 0.37396845
+        },
+        {
+            "name": "Congo, Rep.",
+            "population": 6239660,
+            "growthRate": 2.20869105
+        },
+        {
+            "name": "Denmark",
+            "population": 5995645,
+            "growthRate": 1.4956784
+        },
+        {
+            "name": "Singapore",
+            "population": 6003934,
+            "growthRate": 18.26653416
+        },
+        {
+            "name": "Central African Republic",
+            "population": 5823124,
+            "growthRate": 2.4051109
+        },
+        {
+            "name": "Finland",
+            "population": 5586284,
+            "growthRate": 0.40125641
+        },
+        {
+            "name": "Lebanon",
+            "population": 5283955,
+            "growthRate": -3.0726671
+        },
+        {
+            "name": "Norway",
+            "population": 5554741,
+            "growthRate": 1.6256411
+        },
+        {
+            "name": "Slovak Republic",
+            "population": 5400762,
+            "growthRate": -0.4298654
+        },
+        {
+            "name": "Liberia",
+            "population": 5521211,
+            "growthRate": 2.1285401
+        },
+        {
+            "name": "Costa Rica",
+            "population": 5234573,
+            "growthRate": 0.35928015
+        },
+        {
+            "name": "Ireland",
+            "population": 5315182,
+            "growthRate": 3.64375498
+        },
+        {
+            "name": "New Zealand",
+            "population": 5149500,
+            "growthRate": -0.08677518
+        },
+        {
+            "name": "West Bank and Gaza",
+            "population": 5285338,
+            "growthRate": 2.36253604
+        },
+        {
+            "name": "Mauritania",
+            "population": 4978469,
+            "growthRate": 2.66698227
+        },
+        {
+            "name": "Oman",
+            "population": 4687952,
+            "growthRate": 4.69409832
+        },
+        {
+            "name": "Panama",
+            "population": 4523209,
+            "growthRate": 1.29451053
+        },
+        {
+            "name": "Kuwait",
+            "population": 4306391,
+            "growthRate": 6.44683177
+        },
+        {
+            "name": "Croatia",
+            "population": 3808800,
+            "growthRate": 6.6980722
+        },
+        {
+            "name": "Georgia",
+            "population": 3720286,
+            "growthRate": 1.07394305
+        },
+        {
+            "name": "Eritrea",
+            "population": 3811472,
+            "growthRate": 1.6420757
+        },
+        {
+            "name": "Uruguay",
+            "population": 3415862,
+            "growthRate": -0.1387401
+        },
+        {
+            "name": "Mongolia",
+            "population": 3499534,
+            "growthRate": 1.28026519
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "population": 3158692,
+            "growthRate": -0.5702368
+        },
+        {
+            "name": "Puerto Rico",
+            "population": 3139981,
+            "growthRate": -2.6318245
+        },
+        {
+            "name": "Lithuania",
+            "population": 2893239,
+            "growthRate": 2.85539338
+        },
+        {
+            "name": "Jamaica",
+            "population": 2826741,
+            "growthRate": -0.54782134
+        },
+        {
+            "name": "Armenia",
+            "population": 2759459,
+            "growthRate": -0.0853796
+        },
+        {
+            "name": "Albania",
+            "population": 2709735,
+            "growthRate": -1.7935347
+        },
+        {
+            "name": "Gambia, The",
+            "population": 2838144,
+            "growthRate": 2.35885611
+        },
+        {
+            "name": "Qatar",
+            "population": 2708896,
+            "growthRate": 6.06465197
+        },
+        {
+            "name": "Pacific island small states",
+            "population": 2712711,
+            "growthRate": 1.4932176
+        },
+        {
+            "name": "Botswana",
+            "population": 2714042,
+            "growthRate": 1.5407877
+        },
+        {
+            "name": "Namibia",
+            "population": 2640734,
+            "growthRate": 1.06735976
+        },
+        {
+            "name": "Moldova",
+            "population": 2425064,
+            "growthRate": -3.6440414
+        },
+        {
+            "name": "Gabon",
+            "population": 2484618,
+            "growthRate": 1.8690851
+        },
+        {
+            "name": "Lesotho",
+            "population": 2354567,
+            "growthRate": 0.77523554
+        },
+        {
+            "name": "Slovenia",
+            "population": 2119800,
+            "growthRate": 0.0177853
+        },
+        {
+            "name": "Guinea-Bissau",
+            "population": 2195256,
+            "growthRate": 2.0533394
+        },
+        {
+            "name": "North Macedonia",
+            "population": 2042853,
+            "growthRate": -0.3596811
+        },
+        {
+            "name": "Latvia",
+            "population": 1869169,
+            "growthRate": 0.8724806
+        },
+        {
+            "name": "Kosovo",
+            "population": 1713879,
+            "growthRate": -3.6095912
+        },
+        {
+            "name": "Equatorial Guinea",
+            "population": 1755792,
+            "growthRate": 2.57563883
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "population": 1541806,
+            "growthRate": 0.06852432
+        },
+        {
+            "name": "Bahrain",
+            "population": 1490169,
+            "growthRate": 3.76506625
+        },
+        {
+            "name": "Estonia",
+            "population": 1384656,
+            "growthRate": 3.79766061
+        },
+        {
+            "name": "Timor-Leste",
+            "population": 1382004,
+            "growthRate": 1.39041767
+        },
+        {
+            "name": "Mauritius",
+            "population": 1254901,
+            "growthRate": -0.95474958
+        },
+        {
+            "name": "Cyprus",
+            "population": 1266088,
+            "growthRate": 0.68304164
+        },
+        {
+            "name": "Eswatini",
+            "population": 1220468,
+            "growthRate": 0.39760474
+        },
+        {
+            "name": "Djibouti",
+            "population": 1151433,
+            "growthRate": 1.31545103
+        },
+        {
+            "name": "Fiji",
+            "population": 940078,
+            "growthRate": 0.76032108
+        },
+        {
+            "name": "Comoros",
+            "population": 867072,
+            "growthRate": 1.68209867
+        },
+        {
+            "name": "Guyana",
+            "population": 817044,
+            "growthRate": -0.29245186
+        },
+        {
+            "name": "Bhutan",
+            "population": 792393,
+            "growthRate": 0.62606025
+        },
+        {
+            "name": "Solomon Islands",
+            "population": 757117,
+            "growthRate": 2.11694748
+        },
+        {
+            "name": "Macao SAR, China",
+            "population": 712290,
+            "growthRate": 0.68735032
+        },
+        {
+            "name": "Luxembourg",
+            "population": 679181,
+            "growthRate": 3.01330496
+        },
+        {
+            "name": "Suriname",
+            "population": 628150,
+            "growthRate": 0.52289505
+        },
+        {
+            "name": "Montenegro",
+            "population": 613217,
+            "growthRate": -0.2940458
+        },
+        {
+            "name": "Cabo Verde",
+            "population": 603597,
+            "growthRate": 0.84789526
+        },
+        {
+            "name": "Malta",
+            "population": 556267,
+            "growthRate": 5.94998385
+        },
+        {
+            "name": "Maldives",
+            "population": 528447,
+            "growthRate": -1.37286583
+        },
+        {
+            "name": "Brunei Darussalam",
+            "population": 456260,
+            "growthRate": 0.78963928
+        },
+        {
+            "name": "Bahamas, The",
+            "population": 414140,
+            "growthRate": 0.81957964
+        },
+        {
+            "name": "Belize",
+            "population": 415754,
+            "growthRate": 1.33366091
+        },
+        {
+            "name": "Iceland",
+            "population": 400969,
+            "growthRate": 4.26268701
+        },
+        {
+            "name": "Vanuatu",
+            "population": 341946,
+            "growthRate": 2.33779791
+        },
+        {
+            "name": "French Polynesia",
+            "population": 310773,
+            "growthRate": 0.81487218
+        },
+        {
+            "name": "Barbados",
+            "population": 282505,
+            "growthRate": 0.10280102
+        },
+        {
+            "name": "New Caledonia",
+            "population": 266880,
+            "growthRate": -0.7912178
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "population": 235926,
+            "growthRate": 1.64727257
+        },
+        {
+            "name": "Samoa",
+            "population": 229618,
+            "growthRate": 1.38377377
+        },
+        {
+            "name": "St. Lucia",
+            "population": 180269,
+            "growthRate": -0.11762226
+        },
+        {
+            "name": "Channel Islands",
+            "population": 176871,
+            "growthRate": 0.58882531
+        },
+        {
+            "name": "Guam",
+            "population": 174254,
+            "growthRate": 0.63948174
+        },
+        {
+            "name": "Curacao",
+            "population": 145250,
+            "growthRate": -1.3533925
+        },
+        {
+            "name": "Kiribati",
+            "population": 135948,
+            "growthRate": 1.6623884
+        },
+        {
+            "name": "Grenada",
+            "population": 127094,
+            "growthRate": 0.46107856
+        },
+        {
+            "name": "Micronesia, Fed. Sts.",
+            "population": 116230,
+            "growthRate": 0.90655414
+        },
+        {
+            "name": "Tonga",
+            "population": 108540,
+            "growthRate": 0.92582111
+        },
+        {
+            "name": "Aruba",
+            "population": 106261,
+            "growthRate": -0.1690877
+        },
+        {
+            "name": "Virgin Islands (U.S.)",
+            "population": 104499,
+            "growthRate": -0.5059312
+        },
+        {
+            "name": "St. Vincent and the Grenadines",
+            "population": 103180,
+            "growthRate": -0.5319424
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "population": 94851,
+            "growthRate": 0.55132431
+        },
+        {
+            "name": "Isle of Man",
+            "population": 85031,
+            "growthRate": 0.39433196
+        },
+        {
+            "name": "Andorra",
+            "population": 81404,
+            "growthRate": -0.42075501
+        },
+        {
+            "name": "Dominica",
+            "population": 73387,
+            "growthRate": 0.18837744
+        },
+        {
+            "name": "Cayman Islands",
+            "population": 69846,
+            "growthRate": 0.06283968
+        },
+        {
+            "name": "Bermuda",
+            "population": 63068,
+            "growthRate": -0.6893074
+        },
+        {
+            "name": "Greenland",
+            "population": 56677,
+            "growthRate": -0.9698522
+        },
+        {
+            "name": "Faroe Islands",
+            "population": 53492,
+            "growthRate": -0.66255089
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "population": 49691,
+            "growthRate": 0.85209441
+        },
+        {
+            "name": "St. Kitts and Nevis",
+            "population": 47759,
+            "growthRate": 0.47240023
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "population": 46881,
+            "growthRate": 0.14142646
+        },
+        {
+            "name": "American Samoa",
+            "population": 42749,
+            "growthRate": -0.0591447
+        },
+        {
+            "name": "Sint Maarten (Dutch part)",
+            "population": 43208,
+            "growthRate": -0.42222859
+        },
+        {
+            "name": "Marshall Islands",
+            "population": 40607,
+            "growthRate": 2.9285031
+        },
+        {
+            "name": "Liechtenstein",
+            "population": 39903,
+            "growthRate": 0.74993504
+        },
+        {
+            "name": "Monaco",
+            "population": 36035,
+            "growthRate": -0.4973142
+        },
+        {
+            "name": "San Marino",
+            "population": 33490,
+            "growthRate": 0.7902049
+        },
+        {
+            "name": "Gibraltar",
+            "population": 32609,
+            "growthRate": 0.0610139
+        },
+        {
+            "name": "St. Martin (French part)",
+            "population": 31477,
+            "growthRate": 2.2740848
+        },
+        {
+            "name": "British Virgin Islands",
+            "population": 31671,
+            "growthRate": 0.39181768
+        },
+        {
+            "name": "Palau",
+            "population": 18117,
+            "growthRate": -0.0623069
+        },
+        {
+            "name": "Nauru",
+            "population": 12982,
+            "growthRate": 0.58321623
+        },
+        {
+            "name": "Tuvalu",
+            "population": 11528,
+            "growthRate": 0.45348574
+        }
+    ]
+}
